@@ -1,0 +1,48 @@
+Last login: Sun Jul  9 14:55:18 on console
+himanshugaur@himanshus-mbp ~ % ls -a ~
+.				.vysor
+..				.zsh_history
+.CFUserTextEncoding		.zsh_sessions
+.DS_Store			AndroidStudioProjects
+.Trash				Applications
+.android			Desktop
+.emulator_console_auth_token	Documents
+.gem				Downloads
+.gitconfig			Library
+.gradle				Movies
+.konan				Music
+.m2				Pictures
+.ssh				Public
+.swiftpm
+himanshugaur@himanshus-mbp ~ % touch ~/.profile
+himanshugaur@himanshus-mbp ~ % nano ~/.profile
+
+
+
+
+
+
+  UW PICO 5.09           File: /Users/himanshugaur/.profile           Modified  
+
+export LANG=en_US.UTF-8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+^G Get Help  ^O WriteOut  ^R Read File ^Y Prev Pg   ^K Cut Text  ^C Cur Pos   
+^X Exit      ^J Justify   ^W Where is  ^V Next Pg   ^U UnCut Text^T To Spell  
